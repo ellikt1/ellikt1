@@ -6,8 +6,8 @@
   - [Short Title of project1](https://github.com/ellikt1/Project1)
 - <b>Useful PowerShell Scrpits</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-- <b>Cyber Security Projects</b>
-  - [Blue Team Lab](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>Blue Team Home Lab (VMWare, Splunk, PFsense, Kali Linux, etc.)</b>
+  - [Network Topology](https://github.com/joshmadakor1/Sentinel-Lab)
 
 
 
