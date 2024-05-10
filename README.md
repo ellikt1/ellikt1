@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ellik! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/ellik-trotman-a575581ba">Systems Engineer</a>, <a href="https://www.linkedin.com/in/ellik-trotman-a575581ba">Learner</a></h1>
+<h1>Hi, I'm Ellik! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/ellik-trotman-a575581ba">Systems Engineer</a>, <a href="https://www.linkedin.com/in/ellik-trotman-a575581ba">M.S. Cybersecurity Student</a></h1>
 
 <h2>👨‍💻 Systems Administration Projects:</h2>
 
