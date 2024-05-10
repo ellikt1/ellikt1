@@ -4,12 +4,18 @@
 
 - <b>WSUS or WDT or Group Policy</b>
   - [Short Title of project1](https://github.com/ellikt1/Project1)
-- <b>PowerShell</b>
+- <b>Useful PowerShell Scrpits</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+- <b>Cyber Security Projects</b>
+  - [Blue Team Lab](https://github.com/joshmadakor1/Sentinel-Lab)
+
+
 
 
 <h2>📺 Cyber Security Projects</h2>
-
+- <b>Useful PowerShell Scrpits</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+   
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
