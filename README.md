@@ -1,6 +1,6 @@
 <h1>Hi, I'm Ellik! <br/><a href="https://github.com/ellikt1">Programmer</a>, <a href="https://www.linkedin.com/in/ellik-trotman-a575581ba">Systems Engineer</a>, <a href="https://www.linkedin.com/in/ellik-trotman-a575581ba">M.S. Cybersecurity Student</a></h1>
 
-<h2>👨‍💻 Systems Administration Projects:</h2>
+<h2>👨🏿‍💻 Systems Administration Projects:</h2>
 
 - <b>Microsoft System Center Configuration Manager(SCCM/MECM)</b>
   - [SCCM/MECM Application Deployment](https://github.com/ellikt1/SCCM-MECM-Application-Deployment.git)
@@ -9,7 +9,7 @@
   - [Windows Services Reset]()
 
 
-<h2>📺 Cyber Security Projects</h2>
+<h2>🔒👨🏿‍💻🔒 Cyber Security Projects</h2>
 
 - <b>Blue Team Home Lab (VMWare, Splunk, PFsense, Kali Linux, etc.)</b>
   - [PFsense Setup]()
