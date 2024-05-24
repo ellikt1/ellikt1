@@ -3,7 +3,7 @@
 <h2>👨‍💻 Systems Administration Projects:</h2>
 
 - <b>WSUS or WDT or Group Policy</b>
-  - [Short Title of project1](https://github.com/ellikt1/Project1)
+  - [SCCM/MECM Application Deployment](https://github.com/ellikt1/Project1)
 - <b>Useful PowerShell Scrpits</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Blue Team Home Lab (VMWare, Splunk, PFsense, Kali Linux, etc.)</b>
