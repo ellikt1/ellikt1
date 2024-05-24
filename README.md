@@ -2,30 +2,24 @@
 
 <h2>👨‍💻 Systems Administration Projects:</h2>
 
-- <b>WSUS or WDT or Group Policy</b>
-  - [SCCM/MECM Application Deployment](https://github.com/ellikt1/Project1)
+- <b>Microsoft System Center Configuration Manager(SCCM/MECM)</b>
+  - [SCCM/MECM Application Deployment](https://github.com/ellikt1/SCCM-MECM-Application-Deployment.git)
+
 - <b>Useful PowerShell Scrpits</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-- <b>Blue Team Home Lab (VMWare, Splunk, PFsense, Kali Linux, etc.)</b>
-  - [Network Topology](https://github.com/joshmadakor1/Sentinel-Lab)
-
-
+  - [Windows Services Reset]()
 
 
 <h2>📺 Cyber Security Projects</h2>
-- <b>Useful PowerShell Scrpits</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-   
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
+
+- <b>Blue Team Home Lab (VMWare, Splunk, PFsense, Kali Linux, etc.)</b>
+  - [PFsense Setup]()
+  - [Splunk Configuration]()
 
 
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="EllikTrotman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
