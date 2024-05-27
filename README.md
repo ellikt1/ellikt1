@@ -7,7 +7,7 @@
   - [SCCM/MECM OS Deployment](https://github.com/ellikt1/SCCM-MECM-OS-Deployment.git)
 
 - <b>Useful PowerShell Scrpits</b>
-  - [Configuring SCCM Startup Services]()
+  - [Configuring SCCM Startup Services](https://github.com/ellikt1/Configuring-SCCM-Startup-Services.git)
   - [SCCM/MECM Client Actions Refresh ]()
 
 
