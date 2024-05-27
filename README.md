@@ -14,7 +14,7 @@
 <h2>🔒👨🏿‍💻🔒 Cyber Security Projects</h2>
 
 - <b>Tenable Nessus</b>
-  - [Vulnerability Scan and Assessment]()
+  - [Vulnerability Scan and Assessment](https://github.com/ellikt1/Vulnerability-Scan-Assessments.git)
 
 - <b>Blue Team Home Lab (VMWare, Splunk, PFsense, Kali Linux, etc.)</b>
   - [PFsense Setup]()
