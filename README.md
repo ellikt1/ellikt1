@@ -14,11 +14,14 @@
 <h2>🔒👨🏿‍💻🔒 Cyber Security Projects</h2>
 
 - <b>Tenable Nessus</b>
-  - [Vulnerability Scan and Assessment](https://github.com/ellikt1/Vulnerability-Scan-Assessments.git)
+  - [Vulnerability Assessment](https://github.com/ellikt1/Vulnerability-Scan-Assessments.git)
+  - [Enterprise Vulnerability Management Assessment](https://github.com/ellikt1/Enterprise-Vulnerability-Management-Assessment.git)
+
+
 
 - <b>Blue Team Home Lab (VMWare, Splunk, PFsense, Kali Linux, etc.)</b>
-  - [PFsense Setup]()
-  - [Splunk Configuration]()
+  - [Network Security and Firewall Management using pfSense](https://github.com/ellikt1/Network-Security-and-Firewall-Management-using-pfSense.git)
+  - [Security Monitoring & Analysis Using Splunk](https://github.com/ellikt1/Security-Monitoring-Analysis-Using-Splunk.git)
 
 
 <h2> 🤳 Connect with me:</h2>
