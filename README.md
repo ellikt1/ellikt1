@@ -17,6 +17,9 @@
   - [Vulnerability Assessment](https://github.com/ellikt1/Vulnerability-Scan-Assessments.git)
   - [Enterprise Vulnerability Management Assessment](https://github.com/ellikt1/Enterprise-Vulnerability-Management-Assessment.git)
 
+- <b> Security Implementation Guide (STIG) & Security Content Automation Protocol (SCAP) </b>
+  - [Operating System STIG and SCAP Compliance](https://github.com/ellikt1/STIG-and-SCAP-Compliance-for-Windows-10-11-VMs.git)
+  - [Application STIG and SCAP Compliance]()
 
 
 - <b>Blue Team Home Lab (VMWare, Splunk, PFsense, Kali Linux, etc.)</b>
